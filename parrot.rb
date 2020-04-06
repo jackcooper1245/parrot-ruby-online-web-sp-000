@@ -1,4 +1,4 @@
-phrase = "Squawk!"
+
 def parrot(phrase)
   if phrase
     return phrase
